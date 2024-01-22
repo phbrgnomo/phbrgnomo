@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![phbrgnomo's GitHub | Stats](https://stats.quine.sh/phbrgnomo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phbrgnomo)
-[![phbrgnomo's GitHub | Topics Over Time](https://stats.quine.sh/phbrgnomo/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phbrgnomo)
 [![phbrgnomo's GitHub | Languages Over Time](https://stats.quine.sh/phbrgnomo/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phbrgnomo)
 <!--
 **phbrgnomo/phbrgnomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
